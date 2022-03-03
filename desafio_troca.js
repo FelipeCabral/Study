@@ -11,6 +11,8 @@ c = a;
 a = b;
 b = c;
 
+//[a, b] = [b, a]
+
 console.log("Valor de a: " + a);
 console.log("Valor de b: " + b);
 
