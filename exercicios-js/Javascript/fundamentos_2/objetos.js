@@ -13,7 +13,7 @@ const prod2 = {
 
     nome: 'Camisa Polo',
     preco: 79.90,
-    obj: {
+/*    obj: {
 
         blabla: 1,
         obj: {
@@ -22,8 +22,11 @@ const prod2 = {
 
         }
 
-    }
+       }*/
 }
+
+//JSON '{ "nome": "Camisa Polo", "preco": 79,90}'
+//Textual
 
 console.log(prod2);
 
