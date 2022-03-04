@@ -36,7 +36,7 @@ console.log(('' || null || 0 || 'epa'));
 
 
 let nome = 'Felipe';
-
+//Caso a variável não seja válida execute o Desconhecido
 console.log(nome || 'Desconhecido');
 
 
