@@ -35,6 +35,14 @@ console.log(('' || null || 0 || 'epa'));
 
 
 
+let nome = 'Felipe';
+
+console.log(nome || 'Desconhecido');
+
+
+
+
+
 
 
 
